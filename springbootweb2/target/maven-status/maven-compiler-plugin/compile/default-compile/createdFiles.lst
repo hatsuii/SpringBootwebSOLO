@@ -1,0 +1,7 @@
+eu\ensup\springbootweb2\presentation\ServletInitializer.class
+eu\ensup\springbootweb2\service\FormationController.class
+eu\ensup\springbootweb2\service\IFormationService.class
+eu\ensup\springbootweb2\service\FormationService.class
+eu\ensup\springbootweb2\dao\FormationRepository.class
+eu\ensup\springbootweb2\domaine\Formation.class
+eu\ensup\springbootweb2\presentation\Springbootweb2Application.class
